@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me
 
 I am a Ph.D. student at ...
 
@@ -20,4 +20,4 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
