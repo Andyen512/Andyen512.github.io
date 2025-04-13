@@ -15,7 +15,7 @@ main:
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10243069/
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/BNU-IVC/DroneGait
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://andyen512.github.io/bibtex/dronegait.txt
     # notes: Oral Presentation
