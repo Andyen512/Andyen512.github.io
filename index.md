@@ -8,8 +8,9 @@ I am a first year Ph.D. student at Beijing Normal University.
 
 ## Research Interests
 
-- **Computer Vision:** Human Pose Estimation, Biometrics, Video generation
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 3D Vision, Human Pose Estimation, Biometrics, Video generation
+<!-- - **Human Computer iteraction:** 3D Human Modelling -->
+<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
@@ -19,4 +20,4 @@ I am a first year Ph.D. student at Beijing Normal University.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %} -->
+<!-- {% include_relative _includes/services.md %} --> -->
