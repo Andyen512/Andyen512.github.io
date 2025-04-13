@@ -1,6 +1,6 @@
 main:
 
-  - title: Disentangled diffusion-based 3d human pose estimation with hierarchical spatial and temporal denoiser
+  - title: Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser
     authors: Qingyuan Cai, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2024.
