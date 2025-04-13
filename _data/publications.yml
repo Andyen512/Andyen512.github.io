@@ -1,6 +1,6 @@
 main:
 
-  - title: Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser
+  - title: "Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"
     authors: <strong>Qingyuan Cai</strong>, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2024.
@@ -10,7 +10,7 @@ main:
     image: ./images/ddhpose.jpeg
     # notes: Early Accept
 
-  - title: Gait recognition with drones: A benchmark
+  - title: "Gait recognition with drones: A benchmark"
     authors: Aoqi Li, Saihui Hou, <strong>Qingyuan Cai</strong>, Yang Fu, Yongzhen Huang
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2023.
