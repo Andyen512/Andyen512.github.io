@@ -20,3 +20,14 @@ main:
     bibtex: https://andyen512.github.io/bibtex/dronegait.txt
     # notes: Oral Presentation
     image: ./images/dronegait.png
+
+  - title: "AerialGait: Bridging Aerial and Ground Views for Gait Recognition"
+    authors: Aoqi Li, Saihui Hou, Chenye Wang, <strong>Qingyuan Cai</strong>, Yongzhen Huang
+    conference_short: ACM MM
+    conference: Proceedings of the 32nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681002
+    # code: https://github.com/BNU-IVC/DroneGait
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://andyen512.github.io/bibtex/aerialgait.txt
+    # notes: Oral Presentation
+    image: ./images/AerialGait.png
