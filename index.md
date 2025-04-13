@@ -2,21 +2,20 @@
 layout: homepage
 ---
 
-<!-- ## About Me
+<!-- <!-- ## About Me -->
 
-I am a Ph.D. student at ...
+I am a first year Ph.D. student at Beijing Normal University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer Vision:** Human Pose Estimation, Biometrics, Video generation
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Our paper about biometrics is accepted to ACM MM 2024.
+- **[Feb. 2024]** Our paper about 3D Human Pose Estimation is accepted to AAAI 2024.
+- **[Sep. 2023]** Our paper about biometrics is accepted to TMM.
 
 {% include_relative _includes/publications.md %}
 

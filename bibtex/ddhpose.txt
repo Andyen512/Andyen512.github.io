@@ -1,0 +1,9 @@
+@inproceedings{cai2024disentangled,
+  title={Disentangled diffusion-based 3d human pose estimation with hierarchical spatial and temporal denoiser},
+  author={Cai, Qingyuan and Hu, Xuecai and Hou, Saihui and Yao, Li and Huang, Yongzhen},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={38},
+  number={2},
+  pages={882--890},
+  year={2024}
+}
