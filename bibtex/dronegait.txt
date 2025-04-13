@@ -1,0 +1,9 @@
+@article{li2023gait,
+  title={Gait recognition with drones: A benchmark},
+  author={Li, Aoqi and Hou, Saihui and Cai, Qingyuan and Fu, Yang and Huang, Yongzhen},
+  journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={3530--3540},
+  year={2023},
+  publisher={IEEE}
+}

@@ -1,7 +1,7 @@
 main:
 
   - title: Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser
-    authors: Qingyuan Cai, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
+    authors: <strong>Qingyuan Cai</strong>, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.04444
@@ -10,13 +10,13 @@ main:
     image: ./images/ddhpose.jpeg
     # notes: Early Accept
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: Gait recognition with drones: A benchmark
+    authors: Aoqi Li, Saihui Hou, <strong>Qingyuan Cai</strong>, Yang Fu, Yongzhen Huang
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10243069/
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://andyen512.github.io/bibtex/dronegait.txt
+    # notes: Oral Presentation
+    image: ./images/dronegait.png
