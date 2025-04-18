@@ -31,3 +31,14 @@ main:
     bibtex: https://andyen512.github.io/bibtex/aerialgait.txt
     # notes: Oral Presentation
     image: ./images/AerialGait.png
+
+  - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
+    authors: Chenye Wang, Saihui Hou, Aoqi Li, <strong>Qingyuan Cai</strong>, Yongzhen Huang
+    conference_short: AAAI
+    conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32817
+    # code: https://github.com/BNU-IVC/DroneGait
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://andyen512.github.io/bibtex/ragar.txt
+    # notes: Oral Presentation
+    image: ./images/ragar.png
