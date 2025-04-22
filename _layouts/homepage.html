@@ -112,27 +112,18 @@
     
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
-    <!-- 🌍 地球访问图（visitor-badge） -->
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    <!-- ✅ 访问徽章（稳定图标） -->
     <div style="text-align: center; margin-top: 40px;">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=andyen512.github.io&left_color=blue&right_color=green" alt="visitor badge" />
+      <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/andyen512.github.io/visits" alt="Visitor Count" />
     </div>
     
-    <!-- 🔢 纯英文访问统计（busuanzi） -->
+    <!-- ✅ Busuanzi 英文统计 -->
     <div style="text-align: center; font-size: 0.9rem; color: #999; margin-top: 10px;">
       Total Visits: <span id="busuanzi_value_site_pv"></span> ｜ 
       Unique Visitors: <span id="busuanzi_value_site_uv"></span>
     </div>
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
     </body>
     </html>
