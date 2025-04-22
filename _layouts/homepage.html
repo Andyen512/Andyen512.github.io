@@ -110,13 +110,19 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     
-    <!-- BEGIN Busuanzi 访问统计 -->
-    <div style="text-align: center; margin-top: 40px; font-size: 0.9rem;">
-      本站访问量：<span id="busuanzi_value_site_pv"></span> 次 ｜ 
-      访客数：<span id="busuanzi_value_site_uv"></span> 人
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    <!-- 🌍 地球访问图（visitor-badge） -->
+    <div style="text-align: center; margin-top: 40px;">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=andyen512.github.io&left_color=blue&right_color=green" alt="visitor badge" />
+    </div>
+    
+    <!-- 🔢 纯英文访问统计（busuanzi） -->
+    <div style="text-align: center; font-size: 0.9rem; color: #999; margin-top: 10px;">
+      Total Visits: <span id="busuanzi_value_site_pv"></span> ｜ 
+      Unique Visitors: <span id="busuanzi_value_site_uv"></span>
     </div>
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <!-- END Busuanzi -->
     
     {% if site.google_analytics %}
     <script>
