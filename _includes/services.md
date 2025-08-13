@@ -1,5 +1,3 @@
-## Services
-
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
@@ -15,12 +13,12 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul> -->
 
+<!-- ### Journal Reviewer
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp)
+- [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) -->
 
+## Services
 ### Conference Reviewer
 - [AAAI](https://aaai.org/conference/aaai/aaai-26/)
 - [IJCAI](https://www.ijcai.org/)
 - [PRCV](https://www.prcv.cn/)
-
-<!-- ### Journal Reviewer
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp)
-- [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) -->
