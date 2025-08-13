@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- <!-- ## About Me -->
 
-I am a first year Ph.D. student at Beijing Normal University.
+I am a second year Ph.D. student at Beijing Normal University.
 
 ## Research Interests
 
@@ -21,4 +21,4 @@ I am a first year Ph.D. student at Beijing Normal University.
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
