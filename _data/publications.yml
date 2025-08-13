@@ -1,7 +1,7 @@
 main:
 
   - title: "Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"
-    authors: "**Qingyuan Cai**, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang"
+    authors: <strong>Qingyuan Cai</strong>, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.04444
@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "Gait recognition with drones: A benchmark"
-    authors: "Aoqi Li, Saihui Hou, **Qingyuan Cai**, Yang Fu, Yongzhen Huang"
+    authors: Aoqi Li, Saihui Hou, <strong>Qingyuan Cai</strong>, Yang Fu, Yongzhen Huang
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10243069/
@@ -22,7 +22,7 @@ main:
     image: ./images/dronegait.png
 
   - title: "AerialGait: Bridging Aerial and Ground Views for Gait Recognition"
-    authors: "Aoqi Li, Saihui Hou, Chenye Wang, **Qingyuan Cai**, Yongzhen Huang"
+    authors: Aoqi Li, Saihui Hou, Chenye Wang, <strong>Qingyuan Cai</strong>, Yongzhen Huang
     conference_short: ACM MM
     conference: Proceedings of the 32nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681002
@@ -33,7 +33,7 @@ main:
     image: ./images/AerialGait.png
 
   - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
-    authors: "Chenye Wang, Saihui Hou, Aoqi Li, **Qingyuan Cai**, Yongzhen Huang"
+    authors: Chenye Wang, Saihui Hou, Aoqi Li, <strong>Qingyuan Cai</strong>, Yongzhen Huang
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32817
