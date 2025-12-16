@@ -19,6 +19,10 @@ I am a second year Ph.D. student at Beijing Normal University.
 - **[Feb. 2024]** Our paper about 3D Human Pose Estimation is accepted to AAAI 2024.
 - **[Sep. 2023]** Our paper about biometrics is accepted to TMM.
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
+
 ## Visitor Map
 
 <div class="visitor-map-wrapper">
@@ -71,7 +75,3 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 </script>
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
