@@ -595,3 +595,37 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.visitor-map-wrapper {
+  margin: 30px 0;
+  padding: 20px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.03);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  .visitor-map-wrapper {
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  }
+}
+
+#visitor-map {
+  width: 100%;
+  min-height: 280px;
+  border-radius: 8px;
+}
+
+#visitor-map-info {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  text-align: center;
+  color: #555;
+}
+
+@media (prefers-color-scheme: dark) {
+  #visitor-map-info {
+    color: #cfd3dc;
+  }
+}
