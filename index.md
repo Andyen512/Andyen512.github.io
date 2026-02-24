@@ -14,6 +14,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 
 ## News
 
+- **[Feb. 2026]** Two papers accepted by CVPR 2026.
 - **[Feb. 2025]** Our paper about biometrics is accepted to AAAI 2025.
 - **[Oct. 2024]** Our paper about biometrics is accepted to ACM MM 2024.
 - **[Feb. 2024]** Our paper about 3D Human Pose Estimation is accepted to AAAI 2024.
