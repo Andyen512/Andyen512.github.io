@@ -1,0 +1,7 @@
+@inproceedings{li2024aerialgait,
+  title={AerialGait: Bridging Aerial and Ground Views for Gait Recognition},
+  author={Li, Aoqi and Hou, Saihui and Wang, Chenye and Cai, Qingyuan and Huang, Yongzhen},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={1139--1147},
+  year={2024}
+}

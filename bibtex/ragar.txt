@@ -1,0 +1,9 @@
+@inproceedings{wang2025ra,
+  title={RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition},
+  author={Wang, Chenye and Hou, Saihui and Li, Aoqi and Cai, Qingyuan and Huang, Yongzhen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={7},
+  pages={7591--7599},
+  year={2025}
+}
