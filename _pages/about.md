@@ -57,10 +57,11 @@ I am a second year Ph.D. student at Beijing Normal University.
 {{ link.authors }}
 
 <em>{{ link.conference }}</em><br/>
-{% if link.pdf %}[**[Paper]**]({{ link.pdf }}){% endif %}
-{% if link.code %} [**[Code]**]({{ link.code }}){% endif %}
-{% if link.page %} [**[Project Page]**]({{ link.page }}){% endif %}
-{% if link.bibtex %} [**[BibTex]**]({{ link.bibtex }}){% endif %}
+<div class="pub-links">
+{% if link.pdf %}<a href="{{ link.pdf }}">Paper</a>{% endif %}
+{% if link.code %}<a href="{{ link.code }}">Code</a>{% endif %}
+{% if link.bibtex %}<a href="{{ link.bibtex }}">BibTex</a>{% endif %}
+</div>
 {% if link.notes %} **{{ link.notes }}**{% endif %}
 {% if link.others %} {{ link.others }}{% endif %}
   </div>

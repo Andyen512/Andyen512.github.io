@@ -87,6 +87,25 @@
 
 }
 
+.pub-links {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin-top: .35rem;
+
+    a {
+        display: inline-block;
+        padding: .08rem .62rem;
+        border: 1px solid #d3dae3;
+        border-radius: 999px;
+        text-decoration: none;
+        line-height: 1.4;
+        white-space: nowrap;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
