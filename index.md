@@ -6,11 +6,6 @@ layout: homepage
 
 I am a second year Ph.D. student at Beijing Normal University.
 
-<span id="education" class="anchor-target"></span>
-## Education
-
-- Ph.D. Student, Beijing Normal University
-
 <span id="research" class="anchor-target"></span>
 ## 🔬 Research Interests
 
@@ -30,3 +25,4 @@ I am a second year Ph.D. student at Beijing Normal University.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
