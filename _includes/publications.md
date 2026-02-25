@@ -1,4 +1,4 @@
-<h2 id="publications" class="anchor-target" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" class="anchor-target" style="margin: 2px 0px -15px;">📚 Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
