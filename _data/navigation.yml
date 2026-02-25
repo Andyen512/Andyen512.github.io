@@ -1,0 +1,13 @@
+# Main navigation links
+main:
+  - title: "Research"
+    url: "/#research"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Services"
+    url: "/#services"
