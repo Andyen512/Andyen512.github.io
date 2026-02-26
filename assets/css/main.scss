@@ -56,7 +56,7 @@
         width: 100%;
         order: 2;
         > div {
-            width: 360px;
+            width: 320px;
             max-width: 100%;
             aspect-ratio: 16 / 10;
             position: relative;
@@ -77,15 +77,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 180px;
+            max-width: 35%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 65%;
             order: 2;
         }
 
