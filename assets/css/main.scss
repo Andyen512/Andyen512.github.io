@@ -58,14 +58,14 @@
         > div {
             width: 360px;
             max-width: 100%;
+            aspect-ratio: 16 / 10;
             position: relative;
         }
         img {
             width: 100%;
-            height: auto;
-            display: block;
+            height: 100%;
             box-shadow: 3px 3px 6px #888;
-            object-fit: contain;
+            object-fit: cover;
         }
     }
     
