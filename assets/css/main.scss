@@ -72,6 +72,8 @@
             height: 100%;
             display: block;
             object-fit: contain;
+            transform: scale(var(--paper-image-scale, 1));
+            transform-origin: center;
         }
     }
     

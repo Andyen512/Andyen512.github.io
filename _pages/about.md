@@ -46,7 +46,7 @@ I am a second year Ph.D. student at Beijing Normal University.
       <div class="badge">{{ link.conference_short }}</div>
       {% endif %}
       {% if link.image %}
-      <img src='{{ link.image }}' alt='{{ link.title }}' width="100%">
+      <img src='{{ link.image }}' alt='{{ link.title }}' width="100%" style="--paper-image-scale: {{ link.image_scale | default: 1 }};">
       {% endif %}
     </div>
   </div>
