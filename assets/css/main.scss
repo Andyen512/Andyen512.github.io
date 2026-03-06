@@ -132,12 +132,14 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: .75rem;
+    left: .75rem;
+    z-index: 2;
+    padding: .15rem .9rem;
+    margin: 0;
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 999px;
 }
