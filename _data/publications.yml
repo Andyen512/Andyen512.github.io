@@ -1,5 +1,24 @@
 main:
 
+  - title: "BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition"
+    authors: <strong>Qingyuan Cai</strong>, Saihui Hou, Xuecai Hu, Yongzhen Huang
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf:
+    code:
+    bibtex:
+    image: ./images/BarbieGait.png
+
+  - title: "MMGait: Towards Multi-Modal Gait Recognition"
+    authors: Chenye Wang†, <strong>Qingyuan Cai</strong>†, Saihui Hou, Aoqi Li, Yongzhen Huang
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf:
+    code:
+    bibtex:
+    image: ./images/MMGait.png
+    others: <br/>† Equal contribution
+
   - title: "Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"
     authors: <strong>Qingyuan Cai</strong>, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI
