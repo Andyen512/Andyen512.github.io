@@ -63,3 +63,4 @@ main:
     bibtex: https://andyen512.github.io/bibtex/ragar.txt
     # notes: Oral Presentation
     image: ./images/ragar.png
+    image_scale: 1.08
