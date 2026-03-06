@@ -8,7 +8,7 @@ main:
     code: https://github.com/Andyen512/DDHPose
     bibtex: https://andyen512.github.io/bibtex/ddhpose.txt
     image: ./images/ddhpose.jpeg
-    image_scale: 0.9
+    image_scale: 0.95
     # notes: Early Accept
 
   - title: "Gait recognition with drones: A benchmark"
@@ -32,7 +32,7 @@ main:
     bibtex: https://andyen512.github.io/bibtex/aerialgait.txt
     # notes: Oral Presentation
     image: ./images/AerialGait.png
-    image_scale: 0.9
+    image_scale: 0.95
 
   - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
     authors: Chenye Wang, Saihui Hou, Aoqi Li, <strong>Qingyuan Cai</strong>, Yongzhen Huang
@@ -44,4 +44,4 @@ main:
     bibtex: https://andyen512.github.io/bibtex/ragar.txt
     # notes: Oral Presentation
     image: ./images/ragar.png
-    image_scale: 0.9
+    image_scale: 0.95
