@@ -4,18 +4,18 @@ main:
     authors: <strong>Qingyuan Cai</strong>, Saihui Hou, Xuecai Hu, Yongzhen Huang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-    pdf:
-    code:
-    bibtex:
+    pdf: "#"
+    code: https://github.com/BarbieGait/BarbieGait
+    bibtex: "#"
     image: ./images/BarbieGait.png
 
   - title: "MMGait: Towards Multi-Modal Gait Recognition"
     authors: Chenye Wang†, <strong>Qingyuan Cai</strong>†, Saihui Hou, Aoqi Li, Yongzhen Huang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-    pdf:
-    code:
-    bibtex:
+    pdf: "#"
+    code: "#"
+    bibtex: "#"
     image: ./images/MMGait.png
     others: <br/>† Equal contribution
 
