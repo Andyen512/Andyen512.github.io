@@ -19,6 +19,16 @@ main:
     image: ./images/MMGait.png
     others: <br/>† Equal contribution
 
+  - title: "FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation"
+    authors: <strong>Qingyuan Cai</strong>, Linxin Zhang, Xuecai Hu, Saihui Hou, Yongzhen Huang
+    conference_short: arXiv
+    conference: arXiv 2512.14162, Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2512.14162
+    code: https://github.com/Andyen512/Fast3DHPE
+    bibtex: https://andyen512.github.io/bibtex/fastddhpose.txt
+    image: ./images/Fast3DHPE.png
+    image_scale: 0.95
+
   - title: "Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"
     authors: <strong>Qingyuan Cai</strong>, Xuecai Hu, Saihui Hou, Li Yao, Yongzhen Huang
     conference_short: AAAI

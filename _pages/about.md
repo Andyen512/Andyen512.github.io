@@ -30,6 +30,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 
 # 🔥 News
 - **[Feb. 2026]** 🎉🎉 Two papers accepted by CVPR 2026.
+- **[Dec. 2025]** A Unified Open-source 3D Human Pose Estimation framework released on arXiv.
 - **[Feb. 2025]** 🎉 One paper accepted by AAAI 2025.
 - **[Oct. 2024]** 🎉 One paper accepted by ACM MM 2024.
 - **[Feb. 2024]** 🎉 One paper accepted by AAAI 2024.
