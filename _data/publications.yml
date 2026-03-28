@@ -46,6 +46,7 @@ main:
     conference: 2026 IEEE International Conference on Multimedia and Expo <strong>(ICME 2026)</strong>.
     image: ./images/top_dic_sf_ours_lion_final_half.png
     image_scale: 0.95
+    compact: true
 
   - title: "Gait recognition with drones: A benchmark"
     authors: Aoqi Li, Saihui Hou, <strong>Qingyuan Cai</strong>, Yang Fu, Yongzhen Huang
@@ -57,6 +58,7 @@ main:
     bibtex: https://andyen512.github.io/bibtex/dronegait.txt
     # notes: Oral Presentation
     image: ./images/dronegait.png
+    compact: true
 
   - title: "AerialGait: Bridging Aerial and Ground Views for Gait Recognition"
     authors: Aoqi Li, Saihui Hou, Chenye Wang, <strong>Qingyuan Cai</strong>, Yongzhen Huang
@@ -69,6 +71,7 @@ main:
     # notes: Oral Presentation
     image: ./images/AerialGait.png
     image_scale: 0.95
+    compact: true
 
   - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
     authors: Chenye Wang, Saihui Hou, Aoqi Li, <strong>Qingyuan Cai</strong>, Yongzhen Huang
@@ -81,3 +84,4 @@ main:
     # notes: Oral Presentation
     image: ./images/ragar.png
     image_scale: 1.2
+    compact: true

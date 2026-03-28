@@ -29,6 +29,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **[Mar. 2026]** 🎉 One paper accepted by ICME 2026.
 - **[Feb. 2026]** 🎉🎉 Two papers accepted by CVPR 2026.
 - **[Dec. 2025]** A Unified Open-source 3D Human Pose Estimation framework released on arXiv.
 - **[Feb. 2025]** 🎉 One paper accepted by AAAI 2025.
@@ -40,7 +41,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 
 # 📚 Publications and Preprints
 {% for link in site.data.publications.main %}
-<div class='paper-box'>
+<div class='paper-box{% if link.compact %} paper-box-compact{% endif %}'>
   <div class='paper-box-image'>
     <div>
       {% if link.image %}
@@ -68,6 +69,12 @@ I am a second year Ph.D. student at Beijing Normal University.
   </div>
 </div>
 {% endfor %}
+
+<span class='anchor' id='awards'></span>
+
+# 🏅 Awards
+- 🏆 2024.10, National Scholarship for Graduate Students.
+- 🥉 2024.10, 3rd Place (Pose) at ACM MM'24 Gait Challenge.
 
 <span class='anchor' id='services'></span>
 
