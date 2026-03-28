@@ -24,7 +24,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Interests
-- **Computer Vision:** 3D Vision, Human Pose Estimation, Biometrics, Video generation
+- **Computer Vision:** 3D Human Pose Estimation, Biometrics, Video Understanding, Embodied AI
 
 <span class='anchor' id='news'></span>
 
