@@ -38,7 +38,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 
 <span class='anchor' id='publications'></span>
 
-# 📚 Publications
+# 📚 Publications and Preprints
 {% for link in site.data.publications.main %}
 <div class='paper-box'>
   <div class='paper-box-image'>
