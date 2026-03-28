@@ -40,6 +40,13 @@ main:
     image_scale: 0.95
     # notes: Early Accept
 
+  - title: "Training-Free High-Resolution Image Generation via Optimized Attention Computation"
+    authors: Junjie Li, Zengbin Wang, <strong>Qingyuan Cai</strong>, Yafeng Chen, Man Zhang
+    conference_short: ICME
+    conference: 2026 IEEE International Conference on Multimedia and Expo <strong>(ICME 2026)</strong>.
+    image: ./images/top_dic_sf_ours_lion_final_half.png
+    image_scale: 0.95
+
   - title: "Gait recognition with drones: A benchmark"
     authors: Aoqi Li, Saihui Hou, <strong>Qingyuan Cai</strong>, Yang Fu, Yongzhen Huang
     conference_short: TMM
