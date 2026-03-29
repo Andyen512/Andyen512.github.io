@@ -63,6 +63,7 @@ I am a second year Ph.D. student at Beijing Normal University.
 <div class="pub-links">
 {% if link.pdf %}<a href="{{ link.pdf }}">Paper</a>{% endif %}
 {% if link.code %}<a href="{{ link.code }}">Code</a>{% endif %}
+{% if link.project %}<a href="{{ link.project }}">Project Page</a>{% endif %}
 {% if link.bibtex %}<a href="{{ link.bibtex }}">BibTex</a>{% endif %}
 </div>
 {% if link.notes %} **{{ link.notes }}**{% endif %}

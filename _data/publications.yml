@@ -6,6 +6,7 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: "#"
     code: https://github.com/BarbieGait/BarbieGait
+    project: https://barbiegait.github.io/
     bibtex: "#"
     image: ./images/BarbieGait.png
 
