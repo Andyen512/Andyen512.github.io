@@ -4,7 +4,7 @@ main:
     authors: <strong>Qingyuan Cai</strong>, Saihui Hou, Xuecai Hu, Yongzhen Huang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-    pdf: "#"
+    pdf: https://arxiv.org/abs/2604.12221
     code: https://github.com/BarbieGait/BarbieGait
     project: https://barbiegait.github.io/
     bibtex: "#"
