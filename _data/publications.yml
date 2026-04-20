@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2604.12221
     code: https://github.com/BarbieGait/BarbieGait
     project: https://barbiegait.github.io/
-    bibtex: "#"
+    bibtex: https://andyen512.github.io/bibtex/barbiegait.txt
     image: ./images/BarbieGait.png
 
   - title: "MMGait: Towards Multi-Modal Gait Recognition"

@@ -1,0 +1,6 @@
+@article{cai2026barbiegait,
+  title={BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition},
+  author={Cai, Qingyuan and Hou, Saihui and Hu, Xuecai and Huang, Yongzhen},
+  journal={arXiv preprint arXiv:2604.12221},
+  year={2026}
+}
